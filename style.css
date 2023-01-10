@@ -1,0 +1,48 @@
+
+body{
+    width: 850px;
+    margin:0 auto;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    color: white;
+}
+main{
+    height: 450px;
+    background-image: url(./Space.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container{
+    height: 240px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(231, 225, 225);
+    color: black;
+}
+
+
+    
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 70px;
+    text-decoration-color: midnightblue;
+    text-transform: uppercase;
+}
+
+
+h3{
+
+    text-decoration-line: underline ;
+
+
+
+
+}
+
+  
+
